@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+This is a contract that allows money contribution 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+deployement link : https://sepolia.basescan.org/address/0xfA39B94869FEaDa26aF64B0bD2778e2d24f4cec1#code
